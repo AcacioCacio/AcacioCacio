@@ -26,5 +26,5 @@
  <a href="https://www.linkedin.com/in/acacio-pereira-lopes-jorge-827337179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://twitter.com/AcacioLopz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/acaciocacio/acaciocacio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AcacioCacio/AcacioCacio/blob/output/github-contribution-grid-snake.svg)
 </div>
